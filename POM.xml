@@ -1,0 +1,6 @@
+<build>
+    <plugins>
+        ...
+    </plugins>
+    <finalName>practicas</finalName>
+</build>
