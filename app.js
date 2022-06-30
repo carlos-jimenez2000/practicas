@@ -6,6 +6,7 @@ const bodyParser = require('body-parser');
 app.use(bodyParser.json());
 
 app.get('/', (req, res) => {
+    res.send('el profe chistian es cool')
     res.send('hola, envia un /numero/numero para ver resultados: ')
 })
 

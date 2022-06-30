@@ -35,7 +35,6 @@ artifacts:
   files:
     - app.js
     - imagedefinitions.json
-    - app.js
     - package.json
     - node_modules/async/*
     - node_modules/lodash/*
